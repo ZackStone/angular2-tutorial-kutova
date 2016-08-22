@@ -1,0 +1,8 @@
+<div class="btn" 
+    [class.btn-default]="!jaCurtiu"
+    [class.btn-primary]="jaCurtiu"
+    (click)="curtir()"
+    >
+    <span class="glyphicon glyphicon-thumbs-up"></span>
+    {{nCurtidas}}
+</div>
