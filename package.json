@@ -28,7 +28,7 @@
     "zone.js": "^0.6.12",
     "angular2-in-memory-web-api": "0.0.15",
     "bootstrap": "^3.3.6",
-    "nodejs": ">=4.5.0 || >=5.11.1"
+    "nodejs": "5.11.1"
   },
   "devDependencies": {
     "concurrently": "^2.0.0",
