@@ -10,6 +10,9 @@
     "typings": "typings"
   },
   "license": "ISC",
+  "engines": {
+    "nodejs": "^4.5.0 || >= 5"
+  },
   "dependencies": {
     "@angular/common": "2.0.0-rc.5",
     "@angular/compiler": "2.0.0-rc.5",
@@ -28,7 +31,7 @@
     "zone.js": "^0.6.12",
     "angular2-in-memory-web-api": "0.0.15",
     "bootstrap": "^3.3.6",
-    "nodejs": "5.11.1"
+    "nodejs": "^4.5.0 || >= 5"
   },
   "devDependencies": {
     "concurrently": "^2.0.0",
