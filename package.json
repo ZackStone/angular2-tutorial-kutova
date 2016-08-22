@@ -11,7 +11,7 @@
   },
   "license": "ISC",
   "engines": {
-    "node": "0.10.x"
+    "node": ">=4.5.0"
   },
   "dependencies": {
     "@angular/common": "2.0.0-rc.5",
